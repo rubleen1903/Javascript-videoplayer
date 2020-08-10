@@ -1,0 +1,14 @@
+body{
+    background-color:lightblue;
+}
+h1{
+    color:darkblue;
+    padding:20px;
+    align-self: center;
+    margin-left:100px
+}
+iframe{
+    margin-left: 50px;
+    padding-bottom: 5%;
+    
+}
